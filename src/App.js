@@ -6,6 +6,7 @@ function App() {
     <h1>Patricia Geofrey</h1>
       <p>Heyy</p>
       <h2>Helping</h2>
+      <h2>The World</h2>
     </div>
   );
 }
